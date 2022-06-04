@@ -5,7 +5,7 @@ using System.Text.RegularExpressions;
 
 namespace UserRegistrationLamda
 {
-    class SetValidation
+    public class SetValidation
     {
         public bool FirstNameValidation(string fName) 
         {
